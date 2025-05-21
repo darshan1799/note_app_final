@@ -1,7 +1,7 @@
 client/package-lock.json
-client/package.json
+
 client/vite.config.js
 client/node_modules
 server/package-lock.json
-server/package.json
+
 server/node_modules/
